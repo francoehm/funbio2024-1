@@ -27,3 +27,4 @@ Diseñar, crear y fabricar prototipos funcionales que resuelvan una necesidad m�
 Alumno de Ing. Biomedica con interés
 desarrollo de dispositivos biomecánicos y a investigación de biomateriales
  
+### Encargado del software
