@@ -28,3 +28,5 @@ Alumno de Ing. Biomedica con interés
 desarrollo de dispositivos biomecánicos y a investigación de biomateriales
  
 ### Encargado del software
+
+Desarrollar e implementar  soluciones de software
